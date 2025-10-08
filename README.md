@@ -88,8 +88,7 @@ The repository is structured with the following deliverables:
 | `data_loader.py`                     | Python script for loading, preprocessing, and splitting the dataset.        |
 | `notebooks/colab-finetune.ipynb`     | The complete, runnable notebook for the fine-tuning process.                |
 | `notebooks/inference_demo.ipynb`     | A clean notebook for demonstrating inference with the trained adapter.      |
-| `adapters/alpacare-medical-adapter/` | The saved QLoRA adapter files—the core training artifact.                   |
-| `evaluation/human_evaluation.csv`    | The spreadsheet containing results from the human evaluation.               |
+| `adapters/alpacare-medical-adapter/` | The saved QLoRA adapter files—the core training artifact.                   |            |
 | `requirements.txt`                   | A list of all Python dependencies required to run the project.              |
 | `REPORT.pdf`                         | The final, detailed project report (max 6 pages).                           |
 | `README.md`                          | This file.                                                                  |
